@@ -1,0 +1,10 @@
+1;1201;Polna 4;Kwiatowa 14;14:00;W trakcie;brak
+2;1205;Kwiatowa 14;Wiejska 40;12:30;W trakcie;brak
+3;1206;Wiejska 18;Kwiatowa 5;14:00;W trakcie;Platnosc karta
+4;1220;Poranna 5;Chrobrego 13;18:00;W trakcie;brak
+5;1204;Kwiatowa 4;Chrobrego 14;14:00;W trakcie;Przejazd dla 5 osob
+6;1205;Zielna 1;Polna 2;12:30;W trakcie;brak
+7;1201;Kwiatowa 4;Polna 2;14:00;W trakcie;brak
+8;1204;Kwiatowa 4;Zielna 4;12:00;W trakcie;brak
+9;1202;Polna 2;Kwiatowa 4;12:00;W trakcie;brak
+10;1205;Chrobrego 3;Polna 2;12:00;W trakcie;brak

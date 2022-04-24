@@ -1,0 +1,2 @@
+Adam;Nowak;1025;Nie pracuje
+Jan;Kowalski;1026;Nie pracuje

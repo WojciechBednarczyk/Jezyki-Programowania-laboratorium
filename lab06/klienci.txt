@@ -1,0 +1,6 @@
+Jan;Nowak;1201
+Adam;Kowalski;1202
+Mariusz;Poziomka;1203
+Jan;Drzyzga;1204
+Piotr;Bilon;1205
+Mariusz;Noga;1206

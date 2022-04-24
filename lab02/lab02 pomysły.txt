@@ -1,0 +1,8 @@
+1. Posortować według ilości kawałków?
+2. Stworzyć klasę Order?
+3. Ustalić jakie pizze wypiec (jak?)
+4. Sprawdzanie ilości wystąpień zamówienia i zapisanie na liście?
+
+Dobre pomysły
+4. Usuwać z linkedList zamówienia zrealizowane!!!
+5. Wypisać pozostałą linkedList

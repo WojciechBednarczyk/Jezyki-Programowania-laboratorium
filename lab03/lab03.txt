@@ -1,0 +1,11 @@
+wzorzec DAO (rekomendowany)
+wzorzec DTO
+wzorzec repository
+https://it-leaders.com.pl/2184-2/
+https://riptutorial.com/pl/design-patterns/example/21903/wzorzec-projektowy-j2ee-object-access-object-z-java
+MVC?
+https://riptutorial.com/pl/design-patterns/example/14540/kontroler-widoku-modelu--mvc-
+
+
+Do wyników wykorzystać mapę!!
+nr. odczynnika - wynik ([< poniżej normy] [0 w normie] [> powyżej normy])
